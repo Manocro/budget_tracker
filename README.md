@@ -1,6 +1,6 @@
 **Budget Tracker**
 
-A simple web app to track income and expenses, built with Java Spring Boot (backend) and vanilla HTML/CSS/JavaScript (frontend).
+A simple web app to track income and expenses, built with Java Spring Boot (backend) and vanilla HTML/CSS/JavaScript (frontend). (used to learn Java, javascript, HTML, and CSS)
 
 📌 Table of Contents
 
